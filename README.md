@@ -13,4 +13,4 @@ Este repositorio contiene el código y los modelos desarrollados para el Reto Da
 ## Cómo Empezar
 1. Clona este repositorio en tu máquina local usando:
    ```bash
-   git clone [URL-del-repositorio]
+   git clone [(https://github.com/educamachop/Reto-Viva-Aerobus)]
