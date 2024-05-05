@@ -1,7 +1,7 @@
 # Reto-Viva-Aerobus
 
 ## Descripción del Proyecto
-Este repositorio contiene el código y los modelos desarrollados para el Reto Datathon 2024, organizado por el equipo de Viva E-Commerce. El objetivo es crear modelos predictivos de machine learning para optimizar el abastecimiento de productos a bordo, enfocándose en la reducción de desperdicio de productos perecederos y la mejora en la precisión de las ventas previstas.
+Este repositorio contiene el código y los modelos desarrollados para el Reto Datathon 2024, organizado por el equipo de Naat Consulting. El objetivo es crear modelos predictivos de machine learning para optimizar el abastecimiento de productos a bordo, enfocándose en la reducción de desperdicio de productos perecederos y la mejora en la precisión de las ventas previstas.
 
 ## Estructura del Repositorio
 - `src/`: Contiene todos los scripts de Python y Jupyter Notebooks.
